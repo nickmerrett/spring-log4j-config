@@ -1,6 +1,6 @@
-# Spring PetClinic Config Repository
+# Spring log4j Config Repository
 
-Configuration Repository for Spring PetClinic.
+Configuration Repository for Spring log4j.
 
 Used to deploy thought GitOps using ArgoCD / Openshift GitOps.
 
